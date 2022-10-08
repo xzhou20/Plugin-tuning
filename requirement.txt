@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+accelerate
+loralib
+scipy
+sklearn
+seqeval
+adapter-transformers
